@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce Analytics Flow
 ### Trend Analysis + Customer Segmentation + Behavioral Analysis
 
@@ -116,3 +117,6 @@ Everything downstream (RFM, clustering, trends, dashboard) works unchanged.
 ## Tech stack
 `pandas` · `numpy` · `scikit-learn` (KMeans, StandardScaler, silhouette_score)
 · `streamlit` · `plotly`
+=======
+# ecommerce_analytics
+>>>>>>> b3694be8542d80131b8c127f0bad683e052eb3d3
