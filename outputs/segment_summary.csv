@@ -1,0 +1,6 @@
+segment,customers,avg_recency_days,avg_frequency,avg_monetary,avg_order_value,avg_basket_size,discount_usage_rate,return_rate,category_diversity,conversion_rate,pct_of_customers,pct_of_revenue,top_category
+At Risk / Inactive Customers,154,247.56,2.87,55331.69,25354.89,2.62,0.23,0.1,2.3,0.11,5.2,1.5,Beauty & Personal Care
+High Value Customers,1298,25.6,21.97,308986.58,14009.02,1.99,0.44,0.08,6.71,0.11,44.0,70.8,Beauty & Personal Care
+New Customers,188,256.64,2.35,10220.9,4629.45,1.62,0.64,0.07,1.94,0.12,6.4,0.3,Beauty & Personal Care
+Occasional Buyers,669,62.07,7.98,52184.83,6931.54,1.78,0.46,0.08,4.55,0.11,22.7,6.2,Beauty & Personal Care
+Price Sensitive Customers,643,61.9,8.73,186762.5,22166.09,2.17,0.47,0.09,4.87,0.11,21.8,21.2,Electronics

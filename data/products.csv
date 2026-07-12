@@ -1,0 +1,246 @@
+product_id,category,sub_category,product_name,unit_price
+P1001,Electronics,Smartphones,Smartphones Item 1,23219.42
+P1002,Electronics,Headphones,Headphones Item 2,12164.95
+P1003,Electronics,Accessories,Accessories Item 3,56106.8
+P1004,Electronics,Cameras,Cameras Item 4,16444.18
+P1005,Electronics,Cameras,Cameras Item 5,9538.32
+P1006,Electronics,Headphones,Headphones Item 6,59893.31
+P1007,Electronics,Headphones,Headphones Item 7,32977.58
+P1008,Electronics,Smartphones,Smartphones Item 8,22257.83
+P1009,Electronics,Laptops,Laptops Item 9,47152.91
+P1010,Electronics,Laptops,Laptops Item 10,56239.43
+P1011,Electronics,Cameras,Cameras Item 11,36812.51
+P1012,Electronics,Smartphones,Smartphones Item 12,57855.04
+P1013,Electronics,Smartphones,Smartphones Item 13,24581.2
+P1014,Electronics,Laptops,Laptops Item 14,20089.47
+P1015,Electronics,Cameras,Cameras Item 15,14316.55
+P1016,Electronics,Laptops,Laptops Item 16,20688.79
+P1017,Electronics,Smartphones,Smartphones Item 17,14602.32
+P1018,Electronics,Laptops,Laptops Item 18,58877.49
+P1019,Electronics,Accessories,Accessories Item 19,35507.06
+P1020,Electronics,Cameras,Cameras Item 20,20822.03
+P1021,Electronics,Laptops,Laptops Item 21,14279.05
+P1022,Electronics,Smartphones,Smartphones Item 22,13473.81
+P1023,Electronics,Smartphones,Smartphones Item 23,50712.11
+P1024,Electronics,Laptops,Laptops Item 24,47603.89
+P1025,Electronics,Cameras,Cameras Item 25,12670.16
+P1026,Electronics,Headphones,Headphones Item 26,43233.17
+P1027,Electronics,Laptops,Laptops Item 27,55280.05
+P1028,Electronics,Smartphones,Smartphones Item 28,30340.05
+P1029,Electronics,Headphones,Headphones Item 29,21888.91
+P1030,Electronics,Cameras,Cameras Item 30,24506.36
+P1031,Electronics,Cameras,Cameras Item 31,34259.69
+P1032,Electronics,Accessories,Accessories Item 32,43702.8
+P1033,Electronics,Cameras,Cameras Item 33,41992.74
+P1034,Electronics,Headphones,Headphones Item 34,26736.84
+P1035,Electronics,Laptops,Laptops Item 35,52091.78
+P1036,Fashion,Men's Wear,Men's Wear Item 36,3301.07
+P1037,Fashion,Women's Wear,Women's Wear Item 37,3367.8
+P1038,Fashion,Bags,Bags Item 38,3148.36
+P1039,Fashion,Men's Wear,Men's Wear Item 39,2829.63
+P1040,Fashion,Bags,Bags Item 40,2215.71
+P1041,Fashion,Footwear,Footwear Item 41,4464.44
+P1042,Fashion,Men's Wear,Men's Wear Item 42,3306.33
+P1043,Fashion,Bags,Bags Item 43,330.5
+P1044,Fashion,Watches,Watches Item 44,1562.57
+P1045,Fashion,Footwear,Footwear Item 45,4540.85
+P1046,Fashion,Bags,Bags Item 46,2598.0
+P1047,Fashion,Women's Wear,Women's Wear Item 47,1742.14
+P1048,Fashion,Watches,Watches Item 48,4051.55
+P1049,Fashion,Watches,Watches Item 49,2720.42
+P1050,Fashion,Bags,Bags Item 50,3400.67
+P1051,Fashion,Women's Wear,Women's Wear Item 51,2171.81
+P1052,Fashion,Watches,Watches Item 52,449.66
+P1053,Fashion,Footwear,Footwear Item 53,4261.97
+P1054,Fashion,Bags,Bags Item 54,2818.39
+P1055,Fashion,Men's Wear,Men's Wear Item 55,1958.01
+P1056,Fashion,Footwear,Footwear Item 56,1585.85
+P1057,Fashion,Women's Wear,Women's Wear Item 57,4453.75
+P1058,Fashion,Watches,Watches Item 58,3277.12
+P1059,Fashion,Watches,Watches Item 59,1470.39
+P1060,Fashion,Footwear,Footwear Item 60,3913.16
+P1061,Fashion,Watches,Watches Item 61,2068.94
+P1062,Fashion,Watches,Watches Item 62,977.99
+P1063,Fashion,Men's Wear,Men's Wear Item 63,2059.91
+P1064,Fashion,Footwear,Footwear Item 64,1063.52
+P1065,Fashion,Footwear,Footwear Item 65,3986.51
+P1066,Fashion,Women's Wear,Women's Wear Item 66,3222.85
+P1067,Fashion,Women's Wear,Women's Wear Item 67,2267.44
+P1068,Fashion,Bags,Bags Item 68,3100.65
+P1069,Fashion,Footwear,Footwear Item 69,633.27
+P1070,Fashion,Men's Wear,Men's Wear Item 70,527.57
+P1071,Home & Kitchen,Furniture,Furniture Item 71,11315.29
+P1072,Home & Kitchen,Appliances,Appliances Item 72,9259.22
+P1073,Home & Kitchen,Cookware,Cookware Item 73,4833.63
+P1074,Home & Kitchen,Appliances,Appliances Item 74,10478.3
+P1075,Home & Kitchen,Decor,Decor Item 75,6918.31
+P1076,Home & Kitchen,Cookware,Cookware Item 76,8521.77
+P1077,Home & Kitchen,Cookware,Cookware Item 77,5007.38
+P1078,Home & Kitchen,Furniture,Furniture Item 78,12203.04
+P1079,Home & Kitchen,Decor,Decor Item 79,9363.56
+P1080,Home & Kitchen,Appliances,Appliances Item 80,4807.24
+P1081,Home & Kitchen,Appliances,Appliances Item 81,10751.79
+P1082,Home & Kitchen,Furniture,Furniture Item 82,2154.77
+P1083,Home & Kitchen,Storage,Storage Item 83,7572.6
+P1084,Home & Kitchen,Cookware,Cookware Item 84,13399.65
+P1085,Home & Kitchen,Cookware,Cookware Item 85,11648.08
+P1086,Home & Kitchen,Cookware,Cookware Item 86,4512.75
+P1087,Home & Kitchen,Furniture,Furniture Item 87,11996.53
+P1088,Home & Kitchen,Storage,Storage Item 88,5021.37
+P1089,Home & Kitchen,Furniture,Furniture Item 89,1285.08
+P1090,Home & Kitchen,Decor,Decor Item 90,7504.05
+P1091,Home & Kitchen,Decor,Decor Item 91,8902.02
+P1092,Home & Kitchen,Cookware,Cookware Item 92,5672.38
+P1093,Home & Kitchen,Furniture,Furniture Item 93,14363.25
+P1094,Home & Kitchen,Appliances,Appliances Item 94,8721.1
+P1095,Home & Kitchen,Appliances,Appliances Item 95,4581.74
+P1096,Home & Kitchen,Storage,Storage Item 96,13347.78
+P1097,Home & Kitchen,Appliances,Appliances Item 97,11184.88
+P1098,Home & Kitchen,Furniture,Furniture Item 98,10251.09
+P1099,Home & Kitchen,Storage,Storage Item 99,14198.63
+P1100,Home & Kitchen,Cookware,Cookware Item 100,8692.65
+P1101,Home & Kitchen,Appliances,Appliances Item 101,3718.39
+P1102,Home & Kitchen,Furniture,Furniture Item 102,12557.62
+P1103,Home & Kitchen,Cookware,Cookware Item 103,8594.02
+P1104,Home & Kitchen,Decor,Decor Item 104,12376.61
+P1105,Home & Kitchen,Cookware,Cookware Item 105,265.14
+P1106,Beauty & Personal Care,Skincare,Skincare Item 106,1041.06
+P1107,Beauty & Personal Care,Makeup,Makeup Item 107,2963.22
+P1108,Beauty & Personal Care,Makeup,Makeup Item 108,122.19
+P1109,Beauty & Personal Care,Makeup,Makeup Item 109,709.54
+P1110,Beauty & Personal Care,Skincare,Skincare Item 110,998.0
+P1111,Beauty & Personal Care,Fragrance,Fragrance Item 111,2774.38
+P1112,Beauty & Personal Care,Haircare,Haircare Item 112,248.42
+P1113,Beauty & Personal Care,Makeup,Makeup Item 113,470.57
+P1114,Beauty & Personal Care,Skincare,Skincare Item 114,1872.62
+P1115,Beauty & Personal Care,Fragrance,Fragrance Item 115,868.23
+P1116,Beauty & Personal Care,Skincare,Skincare Item 116,2965.22
+P1117,Beauty & Personal Care,Haircare,Haircare Item 117,1826.43
+P1118,Beauty & Personal Care,Makeup,Makeup Item 118,1630.84
+P1119,Beauty & Personal Care,Makeup,Makeup Item 119,1468.82
+P1120,Beauty & Personal Care,Fragrance,Fragrance Item 120,1454.07
+P1121,Beauty & Personal Care,Skincare,Skincare Item 121,2070.7
+P1122,Beauty & Personal Care,Fragrance,Fragrance Item 122,700.83
+P1123,Beauty & Personal Care,Skincare,Skincare Item 123,1351.51
+P1124,Beauty & Personal Care,Skincare,Skincare Item 124,135.14
+P1125,Beauty & Personal Care,Skincare,Skincare Item 125,1717.78
+P1126,Beauty & Personal Care,Makeup,Makeup Item 126,2355.91
+P1127,Beauty & Personal Care,Fragrance,Fragrance Item 127,1481.08
+P1128,Beauty & Personal Care,Skincare,Skincare Item 128,2488.82
+P1129,Beauty & Personal Care,Fragrance,Fragrance Item 129,2737.75
+P1130,Beauty & Personal Care,Skincare,Skincare Item 130,2516.67
+P1131,Beauty & Personal Care,Makeup,Makeup Item 131,2159.32
+P1132,Beauty & Personal Care,Skincare,Skincare Item 132,1720.61
+P1133,Beauty & Personal Care,Makeup,Makeup Item 133,394.36
+P1134,Beauty & Personal Care,Makeup,Makeup Item 134,2860.14
+P1135,Beauty & Personal Care,Skincare,Skincare Item 135,516.98
+P1136,Beauty & Personal Care,Haircare,Haircare Item 136,2497.28
+P1137,Beauty & Personal Care,Fragrance,Fragrance Item 137,1852.65
+P1138,Beauty & Personal Care,Haircare,Haircare Item 138,1020.65
+P1139,Beauty & Personal Care,Skincare,Skincare Item 139,2236.02
+P1140,Beauty & Personal Care,Skincare,Skincare Item 140,1849.55
+P1141,Sports & Fitness,Outdoor Gear,Outdoor Gear Item 141,11151.31
+P1142,Sports & Fitness,Sportswear,Sportswear Item 142,7490.97
+P1143,Sports & Fitness,Outdoor Gear,Outdoor Gear Item 143,7565.44
+P1144,Sports & Fitness,Sportswear,Sportswear Item 144,4076.33
+P1145,Sports & Fitness,Outdoor Gear,Outdoor Gear Item 145,252.06
+P1146,Sports & Fitness,Outdoor Gear,Outdoor Gear Item 146,7637.04
+P1147,Sports & Fitness,Gym Equipment,Gym Equipment Item 147,6074.06
+P1148,Sports & Fitness,Sportswear,Sportswear Item 148,3005.74
+P1149,Sports & Fitness,Sportswear,Sportswear Item 149,11132.55
+P1150,Sports & Fitness,Sportswear,Sportswear Item 150,8848.32
+P1151,Sports & Fitness,Sportswear,Sportswear Item 151,408.1
+P1152,Sports & Fitness,Gym Equipment,Gym Equipment Item 152,5029.93
+P1153,Sports & Fitness,Sportswear,Sportswear Item 153,447.79
+P1154,Sports & Fitness,Sportswear,Sportswear Item 154,4697.08
+P1155,Sports & Fitness,Gym Equipment,Gym Equipment Item 155,11400.05
+P1156,Sports & Fitness,Sportswear,Sportswear Item 156,3131.33
+P1157,Sports & Fitness,Sportswear,Sportswear Item 157,5103.39
+P1158,Sports & Fitness,Gym Equipment,Gym Equipment Item 158,366.13
+P1159,Sports & Fitness,Outdoor Gear,Outdoor Gear Item 159,10828.26
+P1160,Sports & Fitness,Sportswear,Sportswear Item 160,11486.19
+P1161,Sports & Fitness,Outdoor Gear,Outdoor Gear Item 161,6376.39
+P1162,Sports & Fitness,Outdoor Gear,Outdoor Gear Item 162,10077.65
+P1163,Sports & Fitness,Gym Equipment,Gym Equipment Item 163,4865.49
+P1164,Sports & Fitness,Sportswear,Sportswear Item 164,5508.13
+P1165,Sports & Fitness,Outdoor Gear,Outdoor Gear Item 165,1128.86
+P1166,Sports & Fitness,Sportswear,Sportswear Item 166,2243.08
+P1167,Sports & Fitness,Outdoor Gear,Outdoor Gear Item 167,9054.69
+P1168,Sports & Fitness,Sportswear,Sportswear Item 168,4108.2
+P1169,Sports & Fitness,Sportswear,Sportswear Item 169,4712.0
+P1170,Sports & Fitness,Outdoor Gear,Outdoor Gear Item 170,4892.72
+P1171,Sports & Fitness,Gym Equipment,Gym Equipment Item 171,4563.22
+P1172,Sports & Fitness,Gym Equipment,Gym Equipment Item 172,4371.35
+P1173,Sports & Fitness,Gym Equipment,Gym Equipment Item 173,7568.79
+P1174,Sports & Fitness,Sportswear,Sportswear Item 174,3476.22
+P1175,Sports & Fitness,Sportswear,Sportswear Item 175,9064.32
+P1176,Books & Stationery,Non-Fiction,Non-Fiction Item 176,502.64
+P1177,Books & Stationery,Fiction,Fiction Item 177,1190.66
+P1178,Books & Stationery,Fiction,Fiction Item 178,1105.08
+P1179,Books & Stationery,Non-Fiction,Non-Fiction Item 179,927.65
+P1180,Books & Stationery,Office Supplies,Office Supplies Item 180,504.92
+P1181,Books & Stationery,Non-Fiction,Non-Fiction Item 181,883.04
+P1182,Books & Stationery,Non-Fiction,Non-Fiction Item 182,480.49
+P1183,Books & Stationery,Office Supplies,Office Supplies Item 183,801.1
+P1184,Books & Stationery,Office Supplies,Office Supplies Item 184,513.45
+P1185,Books & Stationery,Non-Fiction,Non-Fiction Item 185,281.36
+P1186,Books & Stationery,Non-Fiction,Non-Fiction Item 186,295.91
+P1187,Books & Stationery,Non-Fiction,Non-Fiction Item 187,452.28
+P1188,Books & Stationery,Fiction,Fiction Item 188,747.04
+P1189,Books & Stationery,Office Supplies,Office Supplies Item 189,1039.17
+P1190,Books & Stationery,Office Supplies,Office Supplies Item 190,298.05
+P1191,Books & Stationery,Fiction,Fiction Item 191,1052.06
+P1192,Books & Stationery,Non-Fiction,Non-Fiction Item 192,1010.74
+P1193,Books & Stationery,Office Supplies,Office Supplies Item 193,832.24
+P1194,Books & Stationery,Non-Fiction,Non-Fiction Item 194,442.86
+P1195,Books & Stationery,Non-Fiction,Non-Fiction Item 195,504.2
+P1196,Books & Stationery,Office Supplies,Office Supplies Item 196,949.37
+P1197,Books & Stationery,Office Supplies,Office Supplies Item 197,1029.28
+P1198,Books & Stationery,Fiction,Fiction Item 198,723.27
+P1199,Books & Stationery,Non-Fiction,Non-Fiction Item 199,1116.13
+P1200,Books & Stationery,Non-Fiction,Non-Fiction Item 200,770.47
+P1201,Books & Stationery,Fiction,Fiction Item 201,714.86
+P1202,Books & Stationery,Fiction,Fiction Item 202,280.76
+P1203,Books & Stationery,Non-Fiction,Non-Fiction Item 203,653.03
+P1204,Books & Stationery,Fiction,Fiction Item 204,594.36
+P1205,Books & Stationery,Office Supplies,Office Supplies Item 205,910.89
+P1206,Books & Stationery,Fiction,Fiction Item 206,923.65
+P1207,Books & Stationery,Non-Fiction,Non-Fiction Item 207,199.76
+P1208,Books & Stationery,Non-Fiction,Non-Fiction Item 208,618.46
+P1209,Books & Stationery,Office Supplies,Office Supplies Item 209,136.54
+P1210,Books & Stationery,Non-Fiction,Non-Fiction Item 210,1087.48
+P1211,Grocery,Staples,Staples Item 211,181.42
+P1212,Grocery,Organic,Organic Item 212,40.6
+P1213,Grocery,Snacks,Snacks Item 213,625.82
+P1214,Grocery,Beverages,Beverages Item 214,544.52
+P1215,Grocery,Organic,Organic Item 215,205.98
+P1216,Grocery,Snacks,Snacks Item 216,620.41
+P1217,Grocery,Organic,Organic Item 217,633.99
+P1218,Grocery,Snacks,Snacks Item 218,418.07
+P1219,Grocery,Beverages,Beverages Item 219,69.47
+P1220,Grocery,Snacks,Snacks Item 220,570.53
+P1221,Grocery,Organic,Organic Item 221,529.18
+P1222,Grocery,Snacks,Snacks Item 222,561.88
+P1223,Grocery,Organic,Organic Item 223,568.76
+P1224,Grocery,Snacks,Snacks Item 224,870.8
+P1225,Grocery,Snacks,Snacks Item 225,64.1
+P1226,Grocery,Organic,Organic Item 226,605.58
+P1227,Grocery,Beverages,Beverages Item 227,235.28
+P1228,Grocery,Organic,Organic Item 228,424.36
+P1229,Grocery,Beverages,Beverages Item 229,854.73
+P1230,Grocery,Beverages,Beverages Item 230,863.71
+P1231,Grocery,Staples,Staples Item 231,570.02
+P1232,Grocery,Staples,Staples Item 232,626.3
+P1233,Grocery,Organic,Organic Item 233,470.29
+P1234,Grocery,Snacks,Snacks Item 234,718.24
+P1235,Grocery,Organic,Organic Item 235,212.0
+P1236,Grocery,Staples,Staples Item 236,305.86
+P1237,Grocery,Organic,Organic Item 237,332.35
+P1238,Grocery,Staples,Staples Item 238,837.57
+P1239,Grocery,Staples,Staples Item 239,680.35
+P1240,Grocery,Staples,Staples Item 240,305.87
+P1241,Grocery,Snacks,Snacks Item 241,754.41
+P1242,Grocery,Snacks,Snacks Item 242,473.5
+P1243,Grocery,Staples,Staples Item 243,248.46
+P1244,Grocery,Organic,Organic Item 244,103.54
+P1245,Grocery,Snacks,Snacks Item 245,50.91
